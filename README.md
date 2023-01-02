@@ -44,7 +44,10 @@ ALl the languages and tools I've ever used throughout my programming years (in n
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosperales95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<details> 
+ 
  <a href="https://github.com/carlosperales95&/github-readme-activity-graph"><img alt="My Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=carlosperales95&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+</details>
 ---
 
