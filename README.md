@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/></p>
+<p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/carlos-perales-0b168375/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
  <a href="https://carlosperales95.github.io/personal-website/" ><img src="https://img.shields.io/badge/-Check%20my%20site-0abf53?logo=react&logoColor=white&style=for-the-badge" alt="React site"></a>
