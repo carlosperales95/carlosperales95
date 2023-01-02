@@ -16,6 +16,33 @@ I really enjoy exploring new frameworks, languages and ideas during my free time
 So far I've only had 1,5 years of professional experience as a developer, but I start a lot of cool projects on my own to practice and stay sharp.
 Most of them are never finished, but I keep telling to myself that I will find the time to sit down and leave cool polished concepts to show off. 
 
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [52.413252, 4.860916],
+              [52.391939, 4.971777],
+              [52.339759, 4.946371],
+              [52.322822, 4.856586],
+              [52.366033, 4.828005],
+              [52.413252, 4.860916]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
 
 ---
 
