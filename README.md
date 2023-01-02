@@ -30,11 +30,11 @@ Most of them are never finished, but I keep telling to myself that I will find t
         "type": "Polygon",
         "coordinates": [
           [
-              [52, 4],
-              [52, 5],
-              [52, 6],
-              [52, 7],
-              [52, 4]
+              [4.971777, 52.391939],
+              [4.946371, 52.339759],
+              [4.856586, 52.322822],
+              [4.828005, 52.366033],
+              [4.860916, 52.413252]
           ]
         ]
       }
