@@ -15,7 +15,7 @@ I am a Spanish Software Engineer based in Amsterdam.
 
 <details> 
  
- <summary><h3>Find My Secret Base   :pushpin: </h3></summary>
+ <summary><h3>Find My Secret Base  &nbsp; :pushpin: </h3></summary>
  
 
 ```geojson
