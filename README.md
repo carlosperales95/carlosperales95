@@ -100,23 +100,9 @@ All the languages and tools I've ever used throughout my programming years (in n
 
 ## My Stats 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carlosperales95&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosperales95&layout=compact&theme=vision-friendly-dark&title_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-
-| c1         | c2        | 
-| ------------ | ------------- |
-| Langs | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosperales95&layout=compact&theme=vision-friendly-dark&title_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)    | 
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carlosperales95&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <details> 
