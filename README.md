@@ -34,7 +34,6 @@ Most of them are never finished, but I keep telling to myself that I will find t
               [52.391939, 4.971777],
               [52.339759, 4.946371],
               [52.322822, 4.856586],
-              [52.366033, 4.828005],
               [52.413252, 4.860916]
           ]
         ]
