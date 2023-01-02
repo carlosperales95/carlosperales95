@@ -61,7 +61,7 @@ All the languages and tools I've ever used throughout my programming years (in n
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carlosperales95&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosperales95&layout=compact&theme=vision-friendly-dark&title_color:F8D866)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosperales95&layout=compact&theme=vision-friendly-dark&title_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
 
 <details> 
  <summary><h2>Recent activity graph</h2></summary>
