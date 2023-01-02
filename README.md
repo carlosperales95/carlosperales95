@@ -8,11 +8,14 @@
 
 
 ### About Me
+
 I am a Software Engineer based in Amsterdam
 
 ---
 
-### 🛠 &nbsp;Languages and Tools
+### Languages and Tools
+
+ALl the languages and tools I've ever used throughout my programming years (in no specific order).
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -35,7 +38,8 @@ I am a Software Engineer based in Amsterdam
 
 ---
 
-### 🔥 &nbsp; My Stats (not the best ones atm)
+### My Stats 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carlosperales95&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosperales95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
