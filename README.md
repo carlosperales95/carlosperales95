@@ -104,6 +104,21 @@ All the languages and tools I've ever used throughout my programming years (in n
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosperales95&layout=compact&theme=vision-friendly-dark&title_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+
+| c1         | c2        | 
+| ------------ | ------------- |
+| Langs | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosperales95&layout=compact&theme=vision-friendly-dark&title_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)    | 
+
+
+
+
 <details> 
  <summary><h2>Recent activity graph</h2></summary>
  
