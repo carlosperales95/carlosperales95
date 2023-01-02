@@ -30,7 +30,7 @@ Most of them are never finished, but I keep telling to myself that I will find t
         "type": "Polygon",
         "coordinates": [
           [
-              [52, 4,
+              [52, 4],
               [52, 5],
               [52, 6],
               [52, 7],
