@@ -11,8 +11,10 @@
 ## About Me
 
 I am a Spanish Software Engineer based in Amsterdam.
+I really enjoy exploring new frameworks, languages and ideas during my free time.
 
-So far I've only had 1,5 years of professional experience as a developer, but I start a lot of cool projects on my own to practice and stay sharp. I really enjoy exploring new frameworks, languages and ideas during my free time.
+So far I've only had 1,5 years of professional experience as a developer, but I start a lot of cool projects on my own to practice and stay sharp.
+Most of them are never finished, but I keep telling to myself that I will find the time to sit down and leave cool polished concepts to show off. 
 
 
 ---
