@@ -67,6 +67,8 @@ All the languages and tools I've ever used throughout my programming years (in n
  <summary><h2>Recent activity graph</h2></summary>
  <a href="https://github.com/carlosperales95&/github-readme-activity-graph"><img alt="My Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=carlosperales95&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+ [![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carlosperales95&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </details>
 
 ---
