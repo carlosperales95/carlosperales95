@@ -1,6 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/carlos-perales-0b168375/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+ <a href="https://carlosperales95.github.io/personal-website/" ><img src="https://img.shields.io/badge/-Check%20my%20site-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React site"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=carlosperales95&style=flat-square&color=blue" alt=""></p>
 
@@ -45,7 +46,7 @@ ALl the languages and tools I've ever used throughout my programming years (in n
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosperales95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <details> 
- 
+ <summary><h2>Recent activity graph</h2></summary>
  <a href="https://github.com/carlosperales95&/github-readme-activity-graph"><img alt="My Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=carlosperales95&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
