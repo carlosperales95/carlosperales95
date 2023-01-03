@@ -5,7 +5,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=carlosperales95&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center"><img src="https://media.giphy.com/media/W8AYJPPzRiP6w/giphy.gif" width="40">  </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/W8AYJPPzRiP6w/giphy.gif" width="350">  </h1>
 
 
 ## About Me
