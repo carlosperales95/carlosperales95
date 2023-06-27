@@ -102,6 +102,8 @@ All the languages and tools I've ever used throughout my programming years (in n
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosperales95&layout=compact&theme=vision-friendly-dark&title_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
 
+<iframe src="https://hackerrank-badge.herokuapp.com/carlosperales95" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=carlosperales95&theme=highcontrast)](https://git.io/streak-stats)
 
 <details> 
