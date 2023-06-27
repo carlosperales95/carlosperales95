@@ -113,6 +113,3 @@ All the languages and tools I've ever used throughout my programming years (in n
 
 ---
 
-<iframe src="https://hackerrank-badge.herokuapp.com/carlosperales95" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
-
-
