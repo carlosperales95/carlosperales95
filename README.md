@@ -12,12 +12,10 @@
 
 I am a Spanish Software Engineer based in the Netherlands.
 
-
 <details> 
  
  <summary><h3>Find My Secret Base  &nbsp; :pushpin: </h3></summary>
  
-
 ```geojson
 {
   "type": "FeatureCollection",
