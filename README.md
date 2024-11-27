@@ -102,7 +102,7 @@ All the languages and tools I've ever used throughout my programming years (in n
 ![GitHub Streak](https://streak-stats.demolab.com?user=carlosperales95&theme=highcontrast)
 
 <details> 
- <summary><h2>Recent Contribution Graph (public contributions only)</h2></summary>
+ <summary><h2>Recent Public Contribution Graph (public contributions only)</h2></summary>
  
  ![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlosperales95&theme=elegant&bg_color=0D1117&color=F8D866&point=FFFFFF&hide_title=true)
 
