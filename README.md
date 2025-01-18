@@ -108,7 +108,7 @@ All the languages and tools I've ever used throughout my programming years (in n
 <details> 
  <summary><h2>Recent Public Contribution Graph</h2></summary>
  
- ![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlosperales95&theme=elegant&bg_color=0D1117&color=F8D866&point=FFFFFF&hide_title=true)
+  ![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carlosperales95&theme=elegant&bg_color=0D1117&color=F8D866&point=FFFFFF&hide_title=true)
 
 </details>
 
